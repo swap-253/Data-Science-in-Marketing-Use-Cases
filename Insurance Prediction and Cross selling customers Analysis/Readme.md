@@ -34,3 +34,4 @@ I have calculated the probability of every person in the test dataset to be taki
 
 **The above plot implies that the airline gets the maximum profits when it sells insurances to the top 1929 or 19.29% of customers and this value is Rs 4,264,254.38**
  
+**For a better understanding open the ipynb notebook** 
