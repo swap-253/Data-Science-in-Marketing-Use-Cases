@@ -65,11 +65,16 @@ Hence our metrics can be termed as **RFMB Metrics**
 
 ## RFMB MARKETING STRATEGY
 **The following strategies are recommended for rfmb:**
+    <br>
     **BEST CUSTOMERS**: no price incentives, new products, and loyalty programs
+    <br>
     **LOYAL CUSTOMERS**: Use frequency and monetary metrics to segment further
+    <br>
     **BIG SPENDERS**: Market the most expensive products
+    <br>
     **ALMOST LOST & LOST**: Aggresive price incentives
+    <br>
     **LOST CHEAP CUSTOMERS**: Don't spend too many resources trying to acquire
-    
+    <br>
 **To understand the complete analysis,open the ipynb notebook**    
 
