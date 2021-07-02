@@ -16,8 +16,9 @@ The flow of this Analysis will be:
 - In the Last step, content is predicted using our two functions which are **get_content** and **create_content** and all of these steps have been explained.
 
 **Examples for content creation from my code**
+<br>
 ![image](https://user-images.githubusercontent.com/75975560/124267687-3a7ef000-db56-11eb-8079-e6b544ccf303.png)
-
+<br>
 ![image](https://user-images.githubusercontent.com/75975560/124267749-4e2a5680-db56-11eb-939a-cc5a5d8927fa.png)
 
 
