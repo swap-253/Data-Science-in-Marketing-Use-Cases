@@ -29,6 +29,7 @@ neither there was issues regarding sparsity.
 ## Part 2:- Using our model and expected value to decide which customers to try and sell ancilliary products
 I have calculated the probability of every person in the test dataset to be taking the health insurance using our Random Forest Model.
 **Consider that the profit attained when the customer buys the airline insurance is Rs 10000 and the cost of selling ancilliary products/insurance is Rs 3500**
+
 ![image](https://user-images.githubusercontent.com/75975560/124267212-972ddb00-db55-11eb-91d4-96a7a332fb74.png)
 
 **The above plot implies that the airline gets the maximum profits when it sells insurances to the top 1929 or 19.29% of customers and this value is Rs 4,264,254.38**
