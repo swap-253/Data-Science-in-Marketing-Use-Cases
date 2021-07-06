@@ -51,9 +51,9 @@ I also created a model for Sarcasm Detection of customer tweets which was traine
  ### Example 1
  **Before clicking the predict button**
  ![image](https://user-images.githubusercontent.com/75975560/124671285-e1ef8000-ded2-11eb-8338-665d69814e2e.png)
-<br>
+ 
+ 
  **After clicking the predict button**
-<br>
 ![image](https://user-images.githubusercontent.com/75975560/124671464-23802b00-ded3-11eb-8803-8036849c10a2.png)
 ### Example 2
 <br>
