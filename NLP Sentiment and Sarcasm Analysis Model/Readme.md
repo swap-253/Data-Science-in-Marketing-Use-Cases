@@ -53,18 +53,22 @@ I also created a model for Sarcasm Detection of customer tweets which was traine
 ![image](https://user-images.githubusercontent.com/75975560/124671285-e1ef8000-ded2-11eb-8338-665d69814e2e.png)
 #### After clicking the predict button
 ![image](https://user-images.githubusercontent.com/75975560/124671464-23802b00-ded3-11eb-8803-8036849c10a2.png)
+#### It was sarcastic and negative and our model was able to detect that.
 ### Example 2
 #### Before clicking the predict button
 ![image](https://user-images.githubusercontent.com/75975560/124671592-575b5080-ded3-11eb-9274-c75720dd0b97.png)
 #### After clicking the predict button
 ![image](https://user-images.githubusercontent.com/75975560/124671639-680bc680-ded3-11eb-956d-1f2229fddec2.png)
+#### This tweet was sarcastic which our model detected but sentiment analysis model predicted positive.
 ### Example 3
 #### Before clicking the predict button
 ![image](https://user-images.githubusercontent.com/75975560/124671928-d9e41000-ded3-11eb-81a7-5a293b072b84.png)
 #### After clicking the predict button
 ![image](https://user-images.githubusercontent.com/75975560/124671969-e9635900-ded3-11eb-95a3-b422eb3574f9.png)
+#### It was a positive sentiment tweet with no sarcasm.
 ### Example 4
 #### Before clicking the predict button
 ![image](https://user-images.githubusercontent.com/75975560/124672073-10218f80-ded4-11eb-9c88-29c44fa71f7f.png)
 #### After clicking the predict button
 ![image](https://user-images.githubusercontent.com/75975560/124672103-1c0d5180-ded4-11eb-9d36-e53945dbce75.png)
+#### It was a negative sentiment tweet with no sarcasm.
