@@ -12,7 +12,7 @@ The flow of this Analysis will be:
 
 
 ## Part 1:- Creation of a Prediction Model
-Encoding has been done as follows:-
+Modelling has been done as follows:-
 - The 'ROUTE' column was splitted into two columns which are 'START' and 'END', actually the starting airport and the ending airport.
 - Since they had a large number of unique observations, **it didn't make much sense to either Label Encode them or One Hot Encode them**. Hence I used **Target Encoding** on the basis of the
 dependent variable(INS_FLAG). The dependent variables has values as 0 or 1. So target encoding just took the means for each of the unique outcomes in these variables. 
